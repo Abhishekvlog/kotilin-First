@@ -1,6 +1,7 @@
 fun main(){
     println("Masai School")
     Names()
+    Name()
     Perimeter(4)
     diffrence()
     greater()
